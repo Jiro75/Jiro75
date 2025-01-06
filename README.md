@@ -19,5 +19,9 @@ Always eager to learn and push boundaries, I'm seeking opportunities to apply my
   <a href="https://facebook.com/ElDoksh1.hany" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" alt="Facebook">
   </a>
+  <a href="rehlatelhandasa.blogspot.com" target="_blank">
+    <img src="https://img.shields.io/badge/Rehlatelhandasa-red?style=for-the-badge&logo=yourlogo&logoWidth=20" alt="Rehlatelhandasa">
+  </a>
 </p>
+
 
